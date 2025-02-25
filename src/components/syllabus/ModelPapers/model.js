@@ -156,7 +156,7 @@ const Model = () => {
                   </th>
                   <th>
                     <a
-                      href="https://drive.google.com/file/d/1AucLL026OQ5Z0MgVw8yF0BqmepsqR9Gx/view?usp=drive_link"
+                      href="https://drive.google.com/file/d/1rNpQL1hrtTL5YAtvLGwy-pPI9yqGjFjp/view?usp=sharing"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -222,7 +222,7 @@ const Model = () => {
                   </th>
                   <th>
                     <a
-                      href="https://drive.google.com/file/d/1KdxYMQbcmjt-j2bXf6qBJRtxnbawZK-k/view?usp=drive_link"
+                      href="https://drive.google.com/file/d/11VWlZAd0aeSzzMkVl9Hq-dcxc0vtQMat/view?usp=sharing"
                       target="_blank"
                       rel="noopener noreferrer"
                     >

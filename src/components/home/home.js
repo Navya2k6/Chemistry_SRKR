@@ -88,12 +88,12 @@ const Home = () => {
   <h2 className='forh' style={{ textAlign: 'center' }}>Student Corner:</h2>
   </div>
     <div className='elem'>
-      <a href="https://drive.google.com/drive/folders/1dNYZpkKnQ-8pNKwVeA2wVUcXLt-13YDL?usp=drive_link">
+      <a href="https://drive.google.com/drive/folders/1dNYZpkKnQ-8pNKwVeA2wVUcXLt-13YDL?usp=drive_link" target="_blank">
         <div style={{cursor:'pointer'}} target="_blank" className="studentp" >        
             Student Presentations
         </div>
       </a>
-      <div style={{cursor:'pointer'}} className="studente">
+      <div style={{cursor:'pointer'}} className="studente" >
           <Link to="/events">Events</Link>
       </div>
     </div>
@@ -102,9 +102,11 @@ const Home = () => {
   <div>
   <h2 className='forh' style={{ textAlign: 'center' }}>Faculty Corner:</h2>
   </div>
+      <a href='https://drive.google.com/drive/folders/1MTxAOsZrMa7Du2clvCFoppbf8zw5TCSa?usp=sharing' target='_blank'>
       <div style={{cursor:'pointer'}} className="facultyl" target="_blank">        
       Faculty Lectures
     </div>
+    </a>
   </div>
 </div>
 <Contact/>
