@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import './navbar.css'
 import { Link ,useLocation} from 'react-router-dom'
@@ -33,8 +32,19 @@ export const Navbar = () => {
     const isProjects = location.pathname === '/projects';
     const isEvents = location.pathname === '/events';
     const isBooks = location.pathname === '/books';
-    const researchClass = isEquipment ? 'equipment-page' : isPublications ? 'publications-page' : isProjects ? 'projects-page' : isEvents ? 'events-page' : isBooks ? 'books-page' : '';
+    const researchArea = location.pathname === '/researchArea';
+    const researchScholars = location.pathname === '/scholars';
+    const patents = location.pathname === '/patents';
     
+    const researchClass = isEquipment ? 'equipment-page' :
+    isPublications ? 'publications-page' :
+    isProjects ? 'projects-page' :
+    isEvents ? 'events-page' :
+    isBooks ? 'books-page' :
+    researchArea ? 'research-area-page' :
+    researchScholars ? 'scholars-page' :
+    patents ? 'patents-page': '';
+
   return (
     <div>
         <div className="head">

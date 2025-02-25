@@ -1,14 +1,16 @@
-
-
 .about-page,.hods-page{
     background-color: #e0f7fa;
     border-radius: 5px;
 
   }
+
   .equipment-page,
 .publications-page,
 .projects-page,
 .events-page,
+.research-area-page,
+.scholars-page,
+.patents-page,
 .books-page{
     background-color: #e0f7fa;
     border-radius: 5px;

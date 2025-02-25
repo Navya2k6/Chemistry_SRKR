@@ -88,7 +88,7 @@ Year of admission
         <td>2023</td>
         <td>GIET, Gunupur, Odisha</td>
         <td>Dr. Venu Reddy</td>
-        <td></td>
+        <td>23WDCY-02</td>
         <td>Ongoing</td>
         </tr>
         <tr>
