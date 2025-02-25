@@ -89,7 +89,7 @@ const Model = () => {
                   </th>
                   <th>
                     <a
-                      href="https://drive.google.com/file/d/16wMqwkHC99uWXhyO_BbhQrkq4rUiDo1W/view?usp=drive_link"
+                      href="https://drive.google.com/file/d/1GxIZaj_DLuOfHlt01f1-xsQtFz9vpIiW/view?usp=sharing"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
